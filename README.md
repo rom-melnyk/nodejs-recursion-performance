@@ -20,7 +20,7 @@ Run `node test.js` to check if `sum...()` implementations are correct.
 
 Run `node index.js` to fetch the runtime data. They are printed as CSV. Results fetched on my machine reside in `./results`.
 
-Pretty similar calculations have been done for browser on [JSPerf platform](https://jsperf.com/factorials-recursion/2).
+Pretty similar calculations (~~sum~~ &rarr; factorial) have been performed for browser on [JSPerf platform](https://jsperf.com/factorials-recursion/2).
 
 ## Results
 
