@@ -1,0 +1,6 @@
+Name,cpuSystem,cpuUser,rss,heapTotal,heapUsed,external
+Classic loop,1106,805097,1343488,1572864,505264,0
+Classic recursion,3174,4665253,315392,0,12424,0
+Recursion with tail call optimization,3417,5155762,28672,0,1536,0
+Recursion with memoization (1st run),254987,43596643,33697792,32505856,6122064,0
+Recursion with memoization (exploiting memoization),36,14581,0,0,56,0
