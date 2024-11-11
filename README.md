@@ -25,7 +25,3 @@ Pretty similar calculations (~~sum~~ &rarr; factorial) have been performed for b
 ## Results
 
 ![results.png](./results/results.png)
-
-## Analysis
-
-Visit https://melnyk.site/post/16 for detailed analysis.
